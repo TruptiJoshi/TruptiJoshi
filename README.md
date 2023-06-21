@@ -38,18 +38,8 @@ I'm Trupti Joshi, a Computer Science graduate student and Software Development E
 
 | Project                                                 | Description                          | Tech Stack                         |
 | ------------------------------------------------------- | ------------------------------------ | ---------------------------------- |
-| [MAT 494](https://github.com/punitarani/MAT-494)        | Mathematical Methods in Data Science | Python (Numpy, Pandas, Scipy)      |
-| [MAT 421](https://github.com/punitarani/MAT-421)        | Applied Computational Methods        | Python (Numpy, Pandas, Matplotlib) |
-| [CSE 360](https://github.com/punitarani/cse360-project) | Pizza Ordering System                | Java (JavaFX)                      |
-
-### Miscellaneous
-
-| Project                                                        | Description                                | Tech Stack             |
-| -------------------------------------------------------------- | ------------------------------------------ | ---------------------- |
-| [Centarus](https://github.com/punitarani/centarus)             | Fund Open Source Projects and Contributors | Go and SvelteKit       |
-| [IPBuf](https://github.com/punitarani/ipbuf)                   | InterPlanetary Protocol Buffers            | Go and Azure Functions |
-| [Parking Assist](https://github.com/punitarani/parking-assist) | Parking Assist with Lidar                  | Embedded C (STM32)     |
-| [restr](https://github.com/punitarani/restr)                   | Web App Mapping and Fuzzing Tool           | Python                 |
+| [COEN317](https://github.com/TruptiJoshi/cage)          | Pub-sub Notification in Distributed Systems | Python (DJango)      |
+| [COEN242]()        | Log Analytics        | Python (Spark, ML, HDFS, HBase, Kafka) |
 
 ## Hackathons
 
