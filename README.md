@@ -17,22 +17,6 @@ Here are some ideas to get you started:
 
 I'm Trupti Joshi, a Computer Science graduate student and Software Development Engineer. I have experience in Backend and Full Stack development, with proficiency in Java, Python, C, C++, C#, JavaScript, React, and NodeJS. I've worked with technologies like Flask, Spring, Docker, AWS EC2, and databases including SQL, MySQL, SQLite, MongoDB, and PostgreSQL. Passionate about continuous learning, I'm eager to contribute to projects and advance my career in software development.
 
-### Hi there 👋
-
-I'm Punit Arani, currently studying Computer Science and Computational Mathematics.
-My interests and skills are broad and diverse, ranging from Embedded Systems to Quantum Computing.
-I enjoy constantly challenging myself and adapting to different tech environments.
-I spend my free time working on projects and learning everything I can.
-
-- Circuit and PCB Design with Altium and Eagle.
-- Firmware Development with C for STM32, Renesas and Arduino.
-- Backend Development with Python, Go, C# and Java.
-- Frontend Development with Svelte(Kit) and React.
-- Machine Learning and Artificial Intelligence with Python, PyTorch and Tensorflow.
-- Quantum Computing and Machine Learning with Qiskit.
-
-My primary interests are Embedded Machine Learning and AI at scale.
-
 ## Projects
 
 ### Quantitative Finance
