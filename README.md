@@ -19,21 +19,6 @@ I'm Trupti Joshi, a Computer Science graduate student and Software Development E
 
 ## Projects
 
-### Quantitative Finance
-
-| Project                                                                      | Description                                                  | Tech Stack                        |
-| ---------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
-| [Cellular S&P 500](https://github.com/punitarani/cellular-sp500)             | S&P 500 Simulator with Neural Networks and Cellular Automata | Python (PyTorch)                  |
-| [Insider Trades Tracker](https://github.com/punitarani/InsiderTradesTracker) | SEC Form 4 Tracker                                           | Python (Plotly Dash)              |
-| [Piqua](https://github.com/punitarani/piqua)                                 | Equity and Options Quantitative Analysis Tool                | Python (Pandas, Numpy, Streamlit) |
-
-### Artificial Intelligence and Machine Learning
-
-| Project                                                              | Description                                        | Tech Stack        |
-| -------------------------------------------------------------------- | -------------------------------------------------- | ----------------- |
-| [Quantum Machine Learning](https://github.com/punitarani/quantum-ml) | Quantum Computing and Machine Learning with Qiskit | Python and Qiskit |
-| [Prompt Gen](https://github.com/punitarani/centarus)                 | RLHF Prompt-Generation Generator                   | Python            |
-
 ### Academic
 
 | Project                                                 | Description                          | Tech Stack                         |
